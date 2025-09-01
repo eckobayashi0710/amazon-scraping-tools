@@ -1,0 +1,12 @@
+{
+    "json_path": "C:/ebaylisting/watch/jan/acquired-script-447815-s9-936808e42236.json",
+    "spreadsheet_id": "1Kc4LCrnOuUmD4TT0Kc99cN6RnODtax_mK5wtbdpz1aI",
+    "sheet_name": "集計",
+    "url_col_letter": "C",
+    "output_start_col_letter": "D",
+    "start_row": 2,
+    "delay": 1.0,
+    "max_retries": 1,
+    "retry_delay": 5.0,
+    "scrape_mode": "書籍"
+}
