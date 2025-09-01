@@ -1,0 +1,12 @@
+{
+    "json_path": "C:/ebaylisting/geo/image/acquired-script-447815-s9-9af29fa05d10.json",
+    "spreadsheet_id": "1Kc4LCrnOuUmD4TT0Kc99cN6RnODtax_mK5wtbdpz1aI",
+    "sheet_name": "価格更新",
+    "main_page_url_col_letter": "D",
+    "side_panel_url_col_letter": "C",
+    "output_start_col_letter": "F",
+    "start_row": 2,
+    "headless_mode": true,
+    "price_range_lower": 0.87,
+    "price_range_upper": 1.13
+}
